@@ -1,3 +1,3 @@
-# Git-practice
-Git-practice 
+# Git-Practice
+Git-Practice 
 Author-GSK
